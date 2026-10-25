@@ -25,4 +25,3 @@ VS Code, Docker, Linux, Git, Telegram, OpenAI, Data Science
 - Interests: chess, checkers, learning
 
 
-## activity
