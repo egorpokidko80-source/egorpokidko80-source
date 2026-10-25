@@ -47,9 +47,9 @@ I always enjoy meeting new people, and welcome to my GitHub!
 <img src="https://vercel.app" />
 
 - 🔭 **Currently working on:** The team
-- 🌱 **Learning:** Golang, soft skills in a team, team leadership, x64, translators
-- 💬 **Ask me about:** coding, SaaS, best solutions
-- ⚡ **Interests:** chess, YouTube, learning
+- 🌱 **Learning:** C++, x64, translators, soft skills
+- 💬 **Ask me about:** coding, best solutions
+- ⚡ **Interests:** chess, checkers, learning
 
 <h2 align="center">⚡ activity</h2>
 <img src="https://vercel.app" />
